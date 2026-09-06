@@ -1,0 +1,23 @@
+{
+  "repo": "brainworx-plugin-bundle-complete",
+  "product": "Brainworx Plugin Bundle Complete",
+  "kind": "audio",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new3",
+  "format": "license-md-toolix-v1",
+  "category": "audio",
+  "topics": [
+    "brainworx-bundle",
+    "console-eq",
+    "mid-side-tools",
+    "plugin-alliance",
+    "mix-bus",
+    "brainworx-setup-failed-fix",
+    "how-to-install-brainworx",
+    "brainworx-windows",
+    "brainworx-desktop-2026",
+    "brainworx-desktop-package"
+  ],
+  "site": "toolix.me"
+}
